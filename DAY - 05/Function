@@ -1,0 +1,28 @@
+package day05;
+
+import java.util.Scanner;
+
+public class function {
+    public static void main(String[] args){
+        Scanner k=new Scanner(System.in);
+        int s=k.nextInt();
+        int l=k.nextInt();
+     }
+
+    public static int  add(int a, int b){
+        return(a+b);
+    }
+
+
+    public static void add1(){
+        System.out.println("Hello");
+    }
+
+
+    public static void add2(){
+    }
+
+    public static int add3(){
+        return 1;
+    }
+}
